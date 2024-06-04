@@ -3,6 +3,8 @@
 This project employs a pretrained YOLOv8 object detection method to identify objects and tally their counts. The output, showcased via a webcam feed, exclusively targets specified classes outlined in the source code under "classNames."
 
 **Results:**
+
+
 ![WhatsApp Image 2024-05-01 at 10 45 20_6627a93b](https://github.com/Dattamuthevi/Object_Detection/assets/100595876/05139326-2405-4cae-a62f-72b2a90615c9)
 
 
